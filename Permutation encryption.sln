@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutation encryption", "Permutation encryption.csproj", "{A42E7423-DC85-45D5-BF52-174FAA3E4743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A42E7423-DC85-45D5-BF52-174FAA3E4743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42E7423-DC85-45D5-BF52-174FAA3E4743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42E7423-DC85-45D5-BF52-174FAA3E4743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42E7423-DC85-45D5-BF52-174FAA3E4743}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E2C0F73-3FCB-4A96-93CC-5880E23A1916}
+	EndGlobalSection
+EndGlobal

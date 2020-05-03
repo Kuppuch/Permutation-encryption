@@ -1,0 +1,6 @@
+D:\Roman\C#\Permutation encryption\bin\Debug\Permutation encryption.exe.config
+D:\Roman\C#\Permutation encryption\bin\Debug\Permutation encryption.exe
+D:\Roman\C#\Permutation encryption\bin\Debug\Permutation encryption.pdb
+D:\Roman\C#\Permutation encryption\obj\Debug\Permutation encryption.csprojAssemblyReference.cache
+D:\Roman\C#\Permutation encryption\obj\Debug\Permutation encryption.exe
+D:\Roman\C#\Permutation encryption\obj\Debug\Permutation encryption.pdb
